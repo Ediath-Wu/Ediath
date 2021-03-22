@@ -1,4 +1,4 @@
 # Ediath
-![](https://img.shields.io/github/followers/:Ediath-Wu?label=Follow)
+![](https://img.shields.io/github/followers/Ediath-Wu?style=social)
 
 About Me
