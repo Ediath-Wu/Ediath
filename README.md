@@ -1,4 +1,4 @@
 # Ediath
-![](https://img.shields.io/badge/Fork-aaa-green)
+![](https://img.shields.io/github/followers/:Ediath-Wu?label=Follow)
 
 About Me
