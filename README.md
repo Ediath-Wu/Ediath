@@ -3,3 +3,9 @@
 
 [![Ediath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ediath-Wu&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Python 
+
+C lang
+
+Go lang
+
