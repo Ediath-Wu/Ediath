@@ -5,9 +5,8 @@
 
 #### TODO List
 
-* [ ] 大学生竞赛 蒲和平
-* [ ] 数学建模 肖华勇
-* [ ] 高等数学试题集
+* [X] 大学生竞赛 蒲和平
+* [X] 数学建模 肖华勇
 * [X] linear and its application
 * [X] 配置git
 * [ ] 美化 todolist
