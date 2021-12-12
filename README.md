@@ -2,6 +2,9 @@
 
 ## Summary
 
+## Lasted test of typing speed
+
+[Speed Test](https://thetypingcat.com/typing-speed-test-result/1m/1/29/98)
 
 #### TODO List
 
