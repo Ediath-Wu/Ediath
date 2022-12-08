@@ -5,6 +5,7 @@
 ## Lasted test of typing speed
 
 [QWERTY 2022-10-24](https://thetypingcat.com/typing-speed-test-result/1m/1/35/100)
+[QWERTY 2022-12-08](https://thetypingcat.com/typing-speed-test-result/1m/1/39/97)
 
 #### TODO List
 
